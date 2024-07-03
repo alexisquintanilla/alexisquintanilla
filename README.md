@@ -4,6 +4,7 @@
 
 Soy programador 👨‍💻,  me gusta la programación, las matemáticas y las redes. Me he dedicado a realizar proyectos personales resolviendo problemas informaticos en mis emprendimientos.  Tengo conocimiento de html, css, js, node.js, express, postgreSQL.
 
+Actualmente vivo en Chile
 
 
 ### Tecnologías
